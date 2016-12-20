@@ -1,4 +1,4 @@
-# Long-term_time_series_School_Health_Survey
+# long-term_time_series_school_health_survey
 　【和歌山県　長期時系列　学校保健統計調査　です。】
 ◆学校保健統計調査は、幼児、児童及び生徒の発育状態及び健康状態を明らかにして、学校保健行政上の基礎資料を得ることを目的に、「学校保健法」による健康診断の結果を基に文部科学省が毎年実施しています。
 http://www.pref.wakayama.lg.jp/prefg/020300/jikeiretu/hoken/hoken.xls
